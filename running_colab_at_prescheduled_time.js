@@ -38,5 +38,5 @@ const main = async () => {
 }
 
 //Run main function
-//await sleep(add as much sleep here to run at specified time)
+//await sleep (add as much sleep here to run at specified time)
 main();
