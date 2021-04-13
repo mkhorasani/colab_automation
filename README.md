@@ -1,4 +1,4 @@
-# Google Colab Automation
+# Automating Google Colab
 
 ![Google Colab Automation](https://cdn-images-1.medium.com/max/800/1*5wC2pRrrCntpApruz3H2LA.gif)
 
